@@ -1,2 +1,2 @@
 # Hangbot
-Magnetic Brachiating Tendon Driven Robot 
+Brachiating Tendon Driven Robot 
